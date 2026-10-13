@@ -1,8 +1,8 @@
 <?php
     $host = 'localhost';
-    $port = '3308';
+    $port = '3306';
     $user = 'root';
-    $pass = '';
+    $pass = 'mysql';
     $dbname = 'mario_jump';
 
     try {
